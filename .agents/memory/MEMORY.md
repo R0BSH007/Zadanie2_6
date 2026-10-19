@@ -1,0 +1,1 @@
+- [Replit config replacement](replit-config-replacement.md) — full `.replit` validation replaces existing config, including Nix packages and workflow declarations.
